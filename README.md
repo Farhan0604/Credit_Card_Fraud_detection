@@ -9,7 +9,7 @@ This repository contains my end-to-end machine learning project for detecting cr
 
 You can modify any part of this README to match updates to your project.
 
-## 📂 Project Structure
+## Project Structure
 
 credit-card-fraud-detection/
 │── notebooks/
@@ -39,7 +39,7 @@ You can expand this section later with more details.
 
 ---
 
-## 🧠 Dataset
+## Dataset
 
 Dataset used: **Credit Card Fraud Detection (Kaggle)**  
 Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
@@ -48,7 +48,7 @@ Note: The dataset is not included in this repo due to size and licensing.
 
 ---
 
-## ⚙️ Methods Used
+## Methods Used
 
 You can modify or update this list anytime.
 
@@ -61,7 +61,7 @@ You can modify or update this list anytime.
 
 ---
 
-## 🧪 Final Model Performance (Test Set)
+## Final Model Performance (Test Set)
 
 Replace these numbers with your own if you rerun the model:
 
@@ -79,27 +79,20 @@ Confusion Matrix:
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 ### 1. Clone the repository
 git clone https://github.com/<your-username>/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 
-shell
-Copy code
 
 ### 2. Install dependencies
 pip install -r requirements.txt
 
-csharp
-Copy code
 
 ### 3. Add the dataset
 Download `creditcard.csv` from Kaggle and place it into:
 data/creditcard.csv
-
-shell
-Copy code
 
 ## 💬 Contact
 
